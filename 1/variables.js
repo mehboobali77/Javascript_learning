@@ -35,3 +35,4 @@ console.log(student["fullname"]);
 student["age"]  = student["age"] + 3;
 console.log(student.age);
 console.log(student.ispass);
+console.log(student.ispass);
